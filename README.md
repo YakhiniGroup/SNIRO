@@ -1,0 +1,2 @@
+# SNIRO
+Sparse NIR Optimization
